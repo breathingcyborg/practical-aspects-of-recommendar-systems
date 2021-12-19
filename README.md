@@ -1,5 +1,5 @@
 
-# practical aspects of recommendar systems
+# Practical aspects of recommendar systems (WIP)
 
 There are lots of resources that explain how recommendar system works.
 Most of them follow the same outline, at first they explain what content based
@@ -16,3 +16,12 @@ But in general these resources don't clearly explain some practical aspects.
 5. How do i know if the recommendar system is working?
 
 This repo is currently work in progress, but in the end it will host series of notebooks that answers the questions mentioned above.
+
+## Notebooks
+
+| Notebook | Colab Link | Description |
+| :--- | :-- | :-- |
+| Matrix Factorization | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/morrisb_kaggle.ipynb) | Explore basics of recommendar systems using collobrative filtering and matrix factorization. |
+| LightFM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/lightfm.ipynb) | Hybrid recommendar system that uses item metadata. Using variant of factorization machine |
+| Product2Vec | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/prod2vec.ipynb) | Adaption of word2vec for recommendar systems |
+| Meta Product2Vec | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/meta%20prod2vec.ipynb) | Like product2vec but can use metadata |
