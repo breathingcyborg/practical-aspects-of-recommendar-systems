@@ -25,3 +25,7 @@ This repo is currently work in progress, but in the end it will host series of n
 | LightFM | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/lightfm.ipynb) | Hybrid recommendar system that uses item metadata. Using variant of factorization machine |
 | Product2Vec | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/prod2vec.ipynb) | Adaption of word2vec for recommendar systems |
 | Meta Product2Vec | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/breathingcyborg/practical-aspects-of-recommendar-systems/blob/main/notebooks/meta%20prod2vec.ipynb) | Like product2vec but can use metadata |
+
+## Demo
+
+[Word2vec for product recommendations](https://huggingface.co/spaces/breathingcyborg/word2vec-for-products)
